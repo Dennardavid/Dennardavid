@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dennardavid
-- 👀 I’m interested in wed development
-- 🌱 I’m currently learning frontend and backend development
-- 💞️ I’m looking to collaborate on frontend works
+- 👀 I’m a fullstack web developer
+- 🌱 I’m a tech enthusiast learning everyday
+- 💞️ I’m looking to collaboraten on a web dev project I am fast learner
 - 📫 How to reach me email: dennardavid@gmail.com, twitter; double_dstwitt
 
 <!---
