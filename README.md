@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dennardavid
 - 👀 I’m a fullstack web developer
 - 🌱 I’m a tech enthusiast learning everyday
-- 💞️ I’m looking to collaboraten on a web dev project I am fast learner
+- 💞️ I’m looking to collaborate on a web dev projects I am fast learner
 
 
 <!---
